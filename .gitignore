@@ -3,3 +3,4 @@ lib/
 jasmine-unit-test-generator-*.tgz
 .npmrc
 .DS_Store
+config.bat
